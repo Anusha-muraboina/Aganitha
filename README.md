@@ -11,6 +11,10 @@
 **Weather Now** is a sleek, responsive, and modern weather application built with **React (Vite)** that allows users to search and view real-time weather information for any city globally.  
 The app uses the **Open-Meteo API** (no authentication required) to display temperature, weather condition, and windspeed for the selected city.
 
+
+
+<img width="1904" height="1023" alt="Screenshot 2025-10-29 182108" src="https://github.com/user-attachments/assets/6f01f1c5-8951-42c9-9668-f2f32a8decec" />
+
 ---
 
 ## 🚀 Features
