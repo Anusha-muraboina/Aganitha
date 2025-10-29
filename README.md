@@ -143,7 +143,7 @@ You can deploy this project easily on:
 ## 🧑‍💻 Developer Notes
 - Developed for **Jamie**, an outdoor enthusiast.  
 - Focused on **speed**, **clarity**, and **simplicity**.  
-- Built with ❤️ using **React + Vite + Open-Meteo API**.  
+- Built with using **React + Vite + Open-Meteo API**.  
 - Tested for responsive design on multiple devices.  
 - Meets **Aganitha Take-Home Challenge** Level 3 (20%) requirement.  
 
